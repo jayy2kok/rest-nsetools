@@ -1,0 +1,5 @@
+Flask==0.11.1
+gunicorn==19.6.0
+nsetools==1.0.10
+flask_restful==0.3.6
+flask-jsonpify==1.5.0
